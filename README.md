@@ -16,8 +16,8 @@ This repository contains my personal handwritten preparation notes. These topics
 
 ## 🎯 Useful For:
 - **Government & Banking Exams:** SSC CGL/CHSL, Bank PO/Clerk.
-- **Entrance Exams:** MCA (NIMCET, CUET, VITMEE, PUCET), MBA (CAT/MAT), NDA.
-- **Campus Placements:** Aptitude and Logical Reasoning rounds.
+- **Entrance Exams:** MCA (NIMCET, CUET, VITMEE, State Exams), MBA (CAT/MAT), NDA.
+- **Campus Placements:** Aptitude and Computer Fundamentals rounds.
   
 *(If your exam has **Maths, Aptitude & Reasoning, or Computers** — these notes will help you)*
 
