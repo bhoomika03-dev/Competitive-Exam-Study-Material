@@ -5,11 +5,12 @@ Hi, I am **Bhoomika**! I'm a BCA graduate who took a drop year to prepare for co
 During this journey, I collected and created a lot of study material for Mathematics, Reasoning, and Computers. Instead of letting it sit unused, I decided to share it here for free, so other students don't have to struggle finding good resources.
 
 ## 📖 What You'll Find Here
-1. **Mathematics:** Topic-wise notes, practice questions, and shortcut methods.
-2. **Logical Reasoning:** Structured approaches for solving verbal and non-verbal reasoning problems quickly.
-3. **Computer Fundamentals:** Core basics required for various entrance tests.
 
-This repository contains my personal handwritten preparation notes for Mathematics, Logical Reasoning, and Computer Fundamentals. These topics form the core syllabus for most competitive exams in India.
+This repository contains my personal handwritten preparation notes. These topics form the core syllabus for most competitive exams in India:
+
+1. **Mathematics:** Core/Higher Math topics like Algebra, Calculus, Coordinate-geometry.
+2. **Aptitude and Reasoning:** Quantitative Aptitude (Time & Work, Percentages etc) and Logical Reasoning (Number Series, Blood Relations, Syllogism etc).
+3. **Computer Fundamentals:** Core basics required for various entrance tests.
 
 ## 🎯 Useful For:
 - **Government & Banking Exams:** SSC CGL/CHSL, Bank PO/Clerk.
