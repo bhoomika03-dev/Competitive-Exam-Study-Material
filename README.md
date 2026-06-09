@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-Hi, I am **Bhoomika**! I'm a BCA graduate who took a drop year to prepare for competitive exams. 
+I'm a BCA graduate who took a drop year to prepare for competitive exams. 
 
 During this journey, I collected and created a lot of study material for Mathematics and Computers. Instead of letting it sit unused, I decided to share it here for free, so other students don't have to struggle finding good resources.
 
