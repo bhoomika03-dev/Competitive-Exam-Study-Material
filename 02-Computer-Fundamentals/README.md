@@ -1,4 +1,4 @@
-> ⚠️ **GitHub cannot preview this PDF file.**  
+> ⚠️ **GitHub cannot preview the above PDF file.**  
 > Please **download** it to view the content properly.
 
 ### 🔍 Can't see the file after download?
