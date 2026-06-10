@@ -8,13 +8,12 @@ During this journey, I collected and created a lot of study material for Mathema
 
 ## 📖 What You'll Find Here
 
-This repository contains my personal handwritten preparation notes. These topics form the core syllabus for most competitive exams in India:
-1. **Mathematics:** Core/Higher Math topics like Algebra, Calculus, Coordinate-geometry.
+This repository contains my personal preparation notes. These topics form the core syllabus for most competitive exams in India:
+1. **Mathematics:** Core/Higher Math topics like Algebra, Calculus, Coordinate-Geometry.
 2. **Computer Fundamentals:** Core basics required for various entrance tests.
 
 ## 🎯 Useful For:
 - **Entrance Exams:** MCA (NIMCET, CUET, VITMEE, State Exams), JEE, NDA.
-- **Campus Placements:** Basic technical assessment and core computer logic rounds.
   
 *(If your exam has **Maths or Computers** — these notes will help you)*
 
@@ -26,5 +25,5 @@ This repository contains my personal handwritten preparation notes. These topics
 *Feel free to download, print, or use these resources for your preparation!*
 
 ---
-## Contact Me
+## 📬 Contact Me
 Let's connect! You can reach out to me on [LinkedIn](https://www.linkedin.com/in/bhoomika-d-034nv).
