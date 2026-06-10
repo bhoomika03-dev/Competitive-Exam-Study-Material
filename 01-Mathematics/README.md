@@ -10,7 +10,7 @@ A premium, well-structured repository containing complete handwritten lecture re
 | :--- | :--- | :--- |
 | **Algebra** | Complete Lecture Notes (5 Modules) | [📁 LAUNCH STORAGE CHANNEL](https://drive.google.com/drive/folders/1gopkNsS3a9Uaj7Tsc_40nr1RfMsLZNH8?usp=share_link ) |
 | **Trignometry** | Complete Lecture Notes (4 Modules) | [📁 LAUNCH STORAGE CHANNEL](https://drive.google.com/drive/folders/1ME-ekPaaWZf2ujTygIWit5Vfy49EUHfJ?usp=share_linkE) |
-| **Coordinate Geometry** | Complete Lecture Notes (9 Modules) | [📁 LAUNCH STORAGE CHANNEL](PASTE_YOUR_DRIVE_LINK_HERE) |
+| **Coordinate Geometry** | Complete Lecture Notes (9 Modules) | [📁 LAUNCH STORAGE CHANNEL](https://drive.google.com/drive/folders/1G6H0f4DC6nCtAgkmARkHNjRjrOTnQkY8?usp=share_link) |
 
 >### 📝 ACCESS DIRECTIVES
 > * **Instant Streaming:** Previews are optimized for immediate mobile and browser viewing via Google Drive.
