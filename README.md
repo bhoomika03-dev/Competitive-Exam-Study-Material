@@ -24,3 +24,6 @@ This repository contains my personal handwritten preparation notes. These topics
 3. If this helps you, please leave a Star ⭐ to support this project!
    
 *Feel free to download, print, or use these resources for your preparation!*
+---
+## Contact Me
+Let's connect! You can reach out to me on [LinkedIn](https://www.linkedin.com/in/yourusername).
